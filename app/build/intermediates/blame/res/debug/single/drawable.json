@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/albertodaniel/AndroidStudioProjects/OpenGL10_Example4prismahexagonal/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/albertodaniel/AndroidStudioProjects/OpenGL10_Example4prismahexagonal/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/giovanni/AndroidStudioProjects/OpenGL10_Example4/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/giovanni/AndroidStudioProjects/OpenGL10_Example4/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/albertodaniel/AndroidStudioProjects/OpenGL10_Example4/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/albertodaniel/AndroidStudioProjects/OpenGL10_Example4/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/OpenGL10_Example4prismahexagonal/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/mac/Downloads/OpenGL10_Example4prismahexagonal/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/OpenGL10_Prisma_Hexagonal/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/mac/Desktop/OpenGL10_Prisma_Hexagonal/app/src/main/res/drawable/icon.png"
+    }
+]
